@@ -1,0 +1,65 @@
+{
+  "nav_buttons": [
+    { "name": "Upload", "icon": "BiReceipt" },
+    { "name": "Cart", "icon": "FaShoppingCart" },
+    { "name": "Sign in / Sign up", "icon": "HiUserCircle" }
+  ],
+
+  "navList": [
+    {
+      "name": "Medicine",
+      "list": ["All Medicines", "Previously Ordered Products"],
+      "image": "https://www.netmeds.com/assets/version1663621997/gloryweb/images/icons/medicine.svg"
+    },
+    {
+      "name": "Wellness",
+      "list": [],
+      "image": "https://www.netmeds.com/assets/gloryweb/images/icons/wellness.svg"
+    },
+    {
+      "name": "Lab Tests",
+      "list": ["All Medicines", "Previously Ordered Products"],
+      "image": "https://www.netmeds.com/assets/gloryweb/images/icons/diagnostics.svg"
+    },
+    {
+      "name": "Beauty",
+      "list": [
+        "Personal Care",
+        "Makeup",
+        "Hair",
+        "Skin Care",
+        "Tools & Appliances",
+        "Mom & Baby",
+        "Fragrences",
+        "Men's Grooming"
+      ],
+      "image": "https://www.netmeds.com/assets/gloryweb/images/icons/beauty.svg"
+    },
+    {
+      "name": "Health Corner",
+      "list": ["Health Library", "PatientsAlike", "Corona Awarness"],
+      "image": "https://www.netmeds.com/assets/version1663621997/gloryweb/images/icons/health-library.svg"
+    }
+  ],
+  "nav_products": [
+    { "name": "COVID Essentials" },
+    { "name": "Diabetes" },
+    { "name": "Eyewear" },
+    { "name": "Ayush" },
+    { "name": "Ayurvedic" },
+    { "name": "Homeopathey" },
+    { "name": "Fitness" },
+    { "name": "Mom & Baby" },
+    { "name": "Devices" },
+    { "name": "Surgicals" },
+    { "name": "Sexual Wellness" },
+    { "name": "Treatments" }
+  ],
+  "sliding_images": [
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664256054_Web_Homecc.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1661965702_Web_Homekareee.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1661966149_Web_Home.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1654275901_Web_Home_Kareenasdhdh.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664373768_World-heart-day_Wellness-main-banner.jpg"
+  ]
+}

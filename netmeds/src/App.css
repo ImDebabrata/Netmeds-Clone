@@ -1,0 +1,51 @@
+.App {
+  /* text-align: center; */
+}
+
+.catagories {
+  /* border: 1px solid black; */
+  color: white;
+  padding: 10px 10px 10px 45px;
+  /* background-image: url("https://www.netmeds.com/assets/gloryweb/images/icons/beauty.svg"); */
+  background-repeat: no-repeat;
+  font-size: 0.9rem;
+}
+.listItems {
+  /* border: 1px solid black; */
+  background-color: #f3f7fb;
+  color: black;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  display: none;
+  position: absolute;
+}
+.catagories:hover .listItems {
+  /* background-color: red; */
+  display: block;
+  /* position: relative; */
+}
+ul {
+  list-style: none;
+}
+.list_items_list {
+  cursor: pointer;
+  padding: 10px 20px 15px 15px;
+}
+.list_items_list:hover {
+  background-color: white;
+}
+
+/* Home page styling */
+.sliding_box {
+  /* height: auto; */
+  border: 1px solid black;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.image_wraper {
+  display: inline-flex;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
