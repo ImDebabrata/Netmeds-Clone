@@ -61,5 +61,22 @@
     "https://www.netmeds.com/images/cms/aw_rbslider/slides/1661966149_Web_Home.jpg",
     "https://www.netmeds.com/images/cms/aw_rbslider/slides/1654275901_Web_Home_Kareenasdhdh.jpg",
     "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664373768_World-heart-day_Wellness-main-banner.jpg"
+  ],
+  "top_catagories": [
+    {
+      "icon": "https://www.netmeds.com/assets/gloryweb/images/icons/Wellnessnew.svg",
+      "heading": "Order Medicine",
+      "discount": "25%"
+    },
+    {
+      "icon": "https://www.netmeds.com/assets/gloryweb/images/icons/Beautynew.svg",
+      "heading": "Beauty",
+      "discount": "40%"
+    },
+    {
+      "icon": "https://www.netmeds.com/assets/gloryweb/images/icons/ordermedicinnew.svg",
+      "heading": "Wellness",
+      "discount": "15%"
+    }
   ]
 }
