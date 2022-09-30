@@ -1,5 +1,6 @@
 .App {
   /* text-align: center; */
+  background-color: #f3f7fb;
 }
 
 .catagories {
@@ -67,10 +68,21 @@ ul {
   left: 0;
   right: 0;
   width: auto;
-  bottom: 0;
-  transform: translateY(-0.5rem);
+  /* bottom: 0; */
+  transform: translateY(-1.3rem);
 }
 .active_image_button {
   background-color: #32aeb1;
 }
 /* End of image slider style */
+
+/* Product Slider box */
+.product_wrapper {
+  gap: 3vw;
+  /* padding: 0 3vw; */
+}
+.product_box {
+  border: 1px solid black;
+  padding: 0 2vw;
+  width: calc(100vw / 3);
+}
