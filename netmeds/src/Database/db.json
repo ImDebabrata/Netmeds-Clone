@@ -79,6 +79,7 @@
       "discount": "15%"
     }
   ],
+
   "trending_products": [
     "https://www.netmeds.com/images/cms/aw_rbslider/slides/1658136890_Web-436x224.jpg",
     "https://www.netmeds.com/images/cms/aw_rbslider/slides/1660934537_Cenvitan-web-436-px-224-px.jpg",
@@ -92,5 +93,68 @@
     "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664560087_Himalaya_Mini-banner-web.jpg",
     "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664560173_Pankajakasthuri_Mini-banner-web.jpg",
     "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664560311_Kerala-Ayurveda_-wellness--main-banner-mobile-.jpg"
+  ],
+
+  "limited_time_deals": [
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1026299/eartho_essentials_skin_brightening_face_pack_vitamin_c_50_gm_0_0.jpg",
+      "title": " Eartho Essentials Skin Brightening Face Pack - Vitamin C 50 gm ",
+      "price": 319.2,
+      "mrp": 399
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/317389/woodwards_gripe_water_200_ml_0.jpg",
+      "title": "  Woodwards Gripe Water 200 ml  ",
+      "price": 66.75,
+      "mrp": 75
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/359873/septilin_tablet_60_s_0.jpg",
+      "title": " Himalaya Septilin Tablet 60's   ",
+      "price": 135.3,
+      "mrp": 165
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1040035/mendwell_corn_caps_4s_399823_0_0.jpg",
+      "title": "  Mendwell Corn Caps 4's  ",
+      "price": 31.2,
+      "mrp": 48
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1054325/cgg_cosmetics_glow_boost_vitamin_c_serum_pack_of_2_x_10_ml_1s_448645_0_0.jpg",
+      "title": "  CGG Cosmetics Glow Boost Vitamin C Serum (Pack of 2 x 10 ml)  ",
+      "price": 299.25,
+      "mrp": 399
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/363656/pankajakasthuri_breathe_easy_granules_400_gm_0.jpg",
+      "title": "  Pankajakasthuri Breathe Easy Granules 400 gm  ",
+      "price": 295.2,
+      "mrp": 360
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/390287/galact_granules_200gm_0.jpg",
+      "title": "  Galact Granules - Elaichi Flavour 200gm  ",
+      "price": 378.9,
+      "mrp": 421
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/15921/dabur_shilajit_gold_capsule_10s_0_1.jpg",
+      "title": "  Dabur Shilajit Gold Capsule 10's  ",
+      "price": 247.5,
+      "mrp": 275
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1031449/ez_life_lancing_device_with_adjustable_depth_0_0.jpg",
+      "title": "  Ez-life Lancing Device with Adjustable Depth  ",
+      "price": 140,
+      "mrp": 350
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/857387/japani_oil_15_ml_0.jpg",
+      "title": "  Japani Oil 15 ml  ",
+      "price": 170.1,
+      "mrp": 189
+    }
   ]
 }

@@ -1,6 +1,7 @@
 import React from "react";
 import SlidingImage from "../Components/SlidingImage";
 import ProductSlider from "../Components/ProductSlider";
+import CartProductSection from "../Components/cartProductSec";
 import db from "../Database/db.json";
 import {
   Flex,
@@ -12,7 +13,12 @@ import {
   Center,
 } from "@chakra-ui/react";
 
-const { sliding_images, top_catagories, trending_products } = db;
+const {
+  sliding_images,
+  top_catagories,
+  trending_products,
+  limited_time_deals,
+} = db;
 
 const Home = () => {
   return (
@@ -47,7 +53,12 @@ const Home = () => {
         ))}
       </Flex>
       {/* Product Image slider */}
-      <ProductSlider images={trending_products} />
+      <ProductSlider images={trending_products} perSlide={1} displayQty={3} />
+      {/* Cart product section */}
+      <CartProductSection
+        heading={"Limited Time Deals"}
+        products={limited_time_deals}
+      />
     </div>
   );
 };
