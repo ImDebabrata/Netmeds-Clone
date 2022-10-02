@@ -35,18 +35,28 @@ const reducer = (state, action) => {
 };
 
 const ProductSlider = ({ images, perSlide, displayQty, products }) => {
+  // console.log("images:", images);
+  const cartProduct = products?.type === "cartProduct";
+  const titleProduct =
+    products?.type === "titleProduct"
+      ? true
+      : products?.type === "pinkCoverBackground";
+  // console.log("titleProduct:", titleProduct);
   const [state, dispatch] = useReducer(reducer, {
     totalItem: products?.length || images?.length,
     currentImageIndex: 0,
     pos: 0,
   });
-  const boxSize = 100 / displayQty;
+  const boxSize = 97 / displayQty;
 
   state.currentImageIndex === state.totalItem - displayQty + 1 &&
     dispatch({ type: "RESET" });
+
   useEffect(() => {
     setInterval(
-      () => dispatch({ type: "SLIDE", perSlide, pos: boxSize * perSlide }),
+      () =>
+        !products &&
+        dispatch({ type: "SLIDE", perSlide, pos: boxSize * perSlide }),
       5000
     );
   }, []);
@@ -56,11 +66,11 @@ const ProductSlider = ({ images, perSlide, displayQty, products }) => {
         style={{ transform: `translateX(${state.pos}vw)` }}
         className="image_wraper product_wrapper"
       >
-        {products
+        {cartProduct
           ? products.map((product, index) => (
               <div
                 style={{
-                  width: `calc(100vw/${displayQty})`,
+                  width: `calc(97vw/${displayQty})`,
                   // height: "100px",
                 }}
                 className="product_box"
@@ -113,9 +123,35 @@ const ProductSlider = ({ images, perSlide, displayQty, products }) => {
                 </div>
               </div>
             ))
+          : titleProduct
+          ? products.map((product, index) => (
+              <div
+                style={{
+                  width: `calc(97vw/${displayQty})`,
+                  // height: "100px",
+                }}
+                className="product_box"
+                key={index}
+              >
+                <div className="product_item_box">
+                  <img
+                    style={{ display: "block", margin: "auto" }}
+                    src={product.image}
+                  />
+                  <Heading
+                    display={"block"}
+                    m="auto"
+                    noOfLines={2}
+                    fontSize={["base", "md"]}
+                  >
+                    {product.title}
+                  </Heading>
+                </div>
+              </div>
+            ))
           : images.map((image, index) => (
               <div
-                style={{ width: `calc(100vw / ${displayQty})` }}
+                style={{ width: `calc(97vw / ${displayQty})` }}
                 className="product_box"
                 key={index}
               >

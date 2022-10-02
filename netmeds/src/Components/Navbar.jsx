@@ -30,7 +30,7 @@ const nav_buttons = [
 
 const Navbar = () => {
   return (
-    <Box>
+    <>
       <Stack
         alignItems={"center"}
         bgColor={"#32aeb1"}
@@ -76,35 +76,41 @@ const Navbar = () => {
           ))}
         </Stack>
       </Stack>
+      <Stack
+        // alignItems={"center"}
+        bgColor={"#32aeb1"}
+        direction={"row"}
+        pos={"sticky"}
+        top={"0%"}
+        bottom={0}
+        zIndex={999}
+        width="100%"
+        justifyContent={"space-around"}
+        p={"20px"}
+      >
+        {navList.map((list) => {
+          let subItem = list.list;
+          return (
+            <ul
+              key={list.image}
+              style={{ backgroundImage: `url(${list.image})` }}
+              className="catagories"
+            >
+              {list.name}
+              <ul className="listItems">
+                {subItem.map((item) => (
+                  <li key={item} className="list_items_list">
+                    {item}
+                  </li>
+                ))}
+              </ul>
+            </ul>
+          );
+        })}
+      </Stack>
       <div>
         {/* item catagory section */}
-        <Stack
-          // alignItems={"center"}
-          bgColor={"#32aeb1"}
-          direction={"row"}
-          justifyContent={"space-around"}
-          p={"20px"}
-        >
-          {navList.map((list) => {
-            let subItem = list.list;
-            return (
-              <ul
-                key={list.image}
-                style={{ backgroundImage: `url(${list.image})` }}
-                className="catagories"
-              >
-                {list.name}
-                <ul className="listItems">
-                  {subItem.map((item) => (
-                    <li key={item} className="list_items_list">
-                      {item}
-                    </li>
-                  ))}
-                </ul>
-              </ul>
-            );
-          })}
-        </Stack>
+
         {/* List Products */}
         <Stack justifyContent={"space-around"} direction={"row"}>
           {nav_products.map((list) => (
@@ -114,7 +120,7 @@ const Navbar = () => {
           ))}
         </Stack>
       </div>
-    </Box>
+    </>
   );
 };
 export default Navbar;

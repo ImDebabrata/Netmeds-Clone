@@ -156,5 +156,351 @@
       "price": 170.1,
       "mrp": 189
     }
+  ],
+
+  "origin_nutrition": [
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/964667/origin_nutrition_vegan_protein_powder_unflavoured_1_kg_219427_0_1.jpg",
+      "title": " Origin Nutrition Vegan Protein Powder - Unflavoured 1 kg ",
+      "price": 1560,
+      "mrp": 2400
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1028533/origin_nutrition_vegan_protein_powder_vanilla_flavour_274_g_354948_0_2.jpg",
+      "title": " Origin Nutrition Vegan Protein Powder - Vanilla Flavour 274 g ",
+      "price": 568.75,
+      "mrp": 875
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1028532/origin_nutrition_vegan_protein_powder_unflavoured_250_g_354938_0_2.jpg",
+      "title": " Origin Nutrition Vegan Protein Powder - Unflavoured 250 g ",
+      "price": 445.5,
+      "mrp": 675
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1028534/origin_nutrition_vegan_protein_powder_strawberry_flavour_290_g_354958_0_2.jpg",
+      "title": " Origin Nutrition Vegan Protein Powder - Strawberry Flavour 290 g ",
+      "price": 568.75,
+      "mrp": 875
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1028535/origin_nutrition_vegan_protein_powder_coffee_caramel_flavour_258_g_354968_0_2.jpg",
+      "title": " Origin Nutrition Vegan Protein Powder - Coffee Caramel Flavour 258 g ",
+      "price": 568.75,
+      "mrp": 875
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1028531/origin_nutrition_vegan_protein_powder_chocolate_flavour_271_g_354928_0_2.jpg",
+      "title": " Origin Nutrition Vegan Protein Powder - Chocolate Flavour 271 g ",
+      "price": 568.75,
+      "mrp": 875
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/964672/origin_nutrition_vegan_protein_powder_strawberry_flavour_830_gm_219443_0_1.jpg",
+      "title": " Origin Nutrition Vegan Protein Powder - Strawberry Flavour 830 gm ",
+      "price": 1474,
+      "mrp": 2200
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/964670/origin_nutrition_vegan_protein_powder_vanilla_flavour_785_gm_0_0.jpg",
+      "title": " Origin Nutrition Vegan Protein Powder - Vanilla Flavour 785 gm ",
+      "price": 1474,
+      "mrp": 2200
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/1049309/origin_nutrition_daily_vegan_protein_powder_chocolate_flavour_770_gm_423836_0_2.jpg",
+      "title": " Origin Nutrition Daily Vegan Protein Powder - Chocolate Flavour 770 gm ",
+      "price": 1474,
+      "mrp": 2200
+    },
+    {
+      "image": "https://www.netmeds.com/images/product-v1/150x150/964673/origin_nutrition_vegan_protein_powder_chocolate_flavour_750_gm_0_0.jpg",
+      "title": " Origin Nutrition Vegan Protein Powder - Chocolate Flavour 750 gm ",
+      "price": 1870,
+      "mrp": 2200
+    }
+  ],
+  "shop_by_catagory": [
+    {
+      "image": "https://www.netmeds.com/images/category/3107/thumb/dressing_1.jpg",
+      "title": "Dressing"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/501/thumb/family_nutrition_1.jpg",
+      "title": "Family Nutrition"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/3141/thumb/respiratory_supplies_1.jpg",
+      "title": "Respiratory Supplies"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/3758/thumb/lotions_creams_0.jpg",
+      "title": "Lotion & Creams"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/491/thumb/homeopathy_2.jpg",
+      "title": "Homeopathy"
+    }
+  ],
+  "new_arrivals": [
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1660932220_Satthwa_web.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664124298_Cannasis_Wellness__mini_banner_for_web.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664565723_Amazing-Earth_web.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664565582_Beauty-Garage_web.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664565653_Goli-Soda_web.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664538185_The-Infused-Kettle_web.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1663220498_Sanosan_Mini_banner_web.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664538242_Philips_web.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664538278_Sterimed_web.jpg",
+    "https://www.netmeds.com/images/cms/aw_rbslider/slides/1664538322_Polymed_web.jpg"
+  ],
+  "top_brands": [
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/himalaya.jpg?v=14",
+      "title": "Himalaya"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/accu-chek.jpg?v=14",
+      "title": "Accu-Chek"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/dabur.jpg?v=14",
+      "title": "Dabur"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/manforce.jpg?v=14",
+      "title": "Manforce"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/cetaphil.jpg?v=14",
+      "title": "Cataphil"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/revital.jpg?v=14",
+      "title": "Revital"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/volini.jpg?v=14",
+      "title": "Volini"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/digene.jpg?v=14",
+      "title": "Digene"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/dr-morepen.jpg?v=14",
+      "title": "Dr-Morepen"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/sebamed.jpg?v=14",
+      "title": "Sebamed"
+    }
+  ],
+
+  "catagory_in_focus": [
+    {
+      "image": "https://www.netmeds.com/images/category/3087/thumb/feminine_hygiene_1.jpg",
+      "title": "Feminine Hygine"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/525/thumb/body_care_1.jpg",
+      "title": "Baby Care"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/482/thumb/ayurvedic_1.jpg",
+      "title": "Ayurvedic"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/676/thumb/orthopaedics_1.jpg",
+      "title": "Orthopaedics"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/3216/thumb/sports_supplements_1.jpg",
+      "title": "Sports Supplements"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/3061/thumb/immunity_booster_1.jpg",
+      "title": "Immunity Booster"
+    }
+  ],
+
+  "explore_beauty": [
+    {
+      "image": "https://www.netmeds.com/images/category/3505/thumb/facial_kits_1.jpg",
+      "title": "Facial Kits"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/560/thumb/lip_care_2.jpg",
+      "title": "Lip Care"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/525/thumb/body_care_1.jpg",
+      "title": "Body Care"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/547/thumb/hair_care_2.jpg",
+      "title": "Hair Care"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/3061/thumb/immunity_booster_1.jpg",
+      "title": "Immunity Booster"
+    }
+  ],
+
+  "best_in_beauty": [
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/maybelline.jpg?v=10",
+      "title": "Maybelline"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/garnier.jpg?v=10",
+      "title": "Garnier"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/myglamm.jpg?v=10",
+      "title": "Myglamm"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/colorbar.jpg?v=10",
+      "title": "Colorbar"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/plum.jpg?v=10",
+      "title": "Plaum"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/revlon.jpg?v=10",
+      "title": "Revlon"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/lotus.jpg?v=10",
+      "title": "Lotus"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/faces-canada.jpg?v=10",
+      "title": "Faces Canada"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/loreal-paris.jpg?v=10",
+      "title": "Loreal Paris"
+    }
+  ],
+  "personal_care": [
+    {
+      "image": "https://www.netmeds.com/images/category/v1/525/thumb/body_care_1.jpg",
+      "title": "Body Care"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/3085/thumb/mom_baby_1.jpg",
+      "title": "Mom & Baby"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/3934/thumb/skin_treatment_1.jpg",
+      "title": "Skin Treatment"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/3495/thumb/face_wash_cleansers_1.jpg",
+      "title": "Face Wash Cleansers"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/3566/thumb/shower_gels_body_wash_2.jpg",
+      "title": "Shower Gels & Body Wash"
+    }
+  ],
+  "mens_grooming": [
+    {
+      "image": "https://www.netmeds.com/images/category/v1/3420/thumb/shaving.jpg?v=1",
+      "title": "Shaving"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/3002/thumb/razors_cartridges_2.jpg?v=1",
+      "title": "Razors & Cartridges"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/3591/thumb/beard_oil_2.jpg?v=1",
+      "title": "Beard Oil"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/3593/thumb/beard_wash_2.jpg?v=1",
+      "title": "Beard Wash"
+    },
+    {
+      "image": "https://www.netmeds.com/images/category/v1/3704/thumb/hair_gels_waxes_2.jpg?v=1",
+      "title": "Hair Gels & Waxes"
+    }
+  ],
+  "health_concerns": [
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/lung-care.jpg?v=1",
+      "title": "Lung Care"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/weight-care.jpg?v=1",
+      "title": "Weight Care"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/women-s-care.jpg?v=1",
+      "title": "Womens Care"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/bone-and-joint-pain.jpg?v=1",
+      "title": "Bone and joint pain"
+    },
+    {
+      "image": "https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/cold-and-fever.jpg?v=1",
+      "title": "Cold and Fever"
+    }
+  ],
+  "health_liberary": [
+    "https://www.netmeds.com/images/cms/magefan_blog/nmslite/1633072918_Gandhini_features_480.jpg",
+    "https://www.netmeds.com/images/cms/magefan_blog/nmslite/1664533205_Breast-Cancer-Awareness_480x180.jpg",
+    "https://www.netmeds.com/images/cms/magefan_blog/nmslite/World_VegetarianDay_Featuredimage_480x180.jpg",
+    "https://www.netmeds.com/images/cms/magefan_blog/nmslite/1661493931_41657A_FISH-OIL-1000-mg-ODOURLESS_480x180.jpg",
+    "https://www.netmeds.com/images/cms/magefan_blog/nmslite/1664445565_Portobello-Mushrooms_480x180.jpg"
+  ],
+
+  "footer": [
+    {
+      "title": "Company",
+      "subtitle": [
+        "About Netmeds",
+        "Customers Speak",
+        "In the News",
+        "Career",
+        "Terms and Conditions",
+        "Privacy Policy",
+        "Fees and Payments Policy",
+        "Shipping and Delivery Policy",
+        "Return, Refund and Cancellation Policy",
+        "Contact"
+      ]
+    },
+    {
+      "title": "Shopping",
+      "subtitle": [
+        "Browse by A-Z",
+        "Browse by Manufacturers",
+        "Health Articles",
+        "Offers / Coupons",
+        "FAQs"
+      ]
+    },
+    {
+      "title": "Social",
+      "subtitle": [
+        "Patients Alike",
+        "Facebook",
+        "Twitter",
+        "LinkedIn",
+        "Youtube",
+        "Refer & Earn"
+      ]
+    },
+    {
+      "title": "SUBSCRIBE TO OUR NEWSLETTER",
+      "subtitle": [
+        "Get a free subscription to our health and fitness tip and stay tuned to our latest offers"
+      ]
+    }
   ]
 }
