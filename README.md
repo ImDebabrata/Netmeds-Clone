@@ -37,4 +37,4 @@ Implemented cart ,about us page.
 
 ### Deployed site
 
-[Deployed Link of website](https://im-debabrata-reliance-digital.netlify.app)
+[Deployed Link of website](https://imdebabrata-netmeds.netlify.app/)
