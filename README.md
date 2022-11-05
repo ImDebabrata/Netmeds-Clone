@@ -6,7 +6,6 @@ Netmeds.com is one of India's most trusted pharmacies, dispensing quality medici
 ### Description
 
 Created a Ecommerce website for purchasing medicines products.
-Implemented cart ,about us page.
 
 ### Functionalities are:
 
